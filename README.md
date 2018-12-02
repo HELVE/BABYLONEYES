@@ -1,4 +1,4 @@
-# Babylon Eyes - Web Series
+# BABYLON EYES - WEB SERIES
 
 ![Project Banner](/assets/template_visuals/temp-banner.png)
 
