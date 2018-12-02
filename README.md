@@ -1,10 +1,8 @@
-# BABYLON EYES - WEB SERIES
-
 ![Project Banner](/assets/template_visuals/temp-banner.png)
 
 <a name="intro"></a>
-# PROJECT NAME - TAGLINE
-Description.
+# BABYLON EYES - WEB SERIES
+Gray's School of Art based.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
