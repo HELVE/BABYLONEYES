@@ -2,7 +2,7 @@
 
 <a name="intro"></a>
 # BABYLON EYES - WEB SERIES
-Gray's School of Art based.
+Gray's School of Art based. Magic + technology world.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
